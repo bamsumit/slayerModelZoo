@@ -1,0 +1,11 @@
+simulation:
+    Ts: 1.0
+    tSample: 1500
+neuron:
+    type:     SRMALPHA
+    theta:    10
+    tauSr:    5.0
+    tauRef:   1.0
+    scaleRef: 10
+    scaleRho: 1
+    tauRho: 1
